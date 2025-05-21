@@ -1,0 +1,132 @@
+[
+    {
+        "id": 1,
+        "question": "What is the output of: print(2 ** 3)?",
+        "options": [
+            "5",
+            "6",
+            "8",
+            "9"
+        ],
+        "answer": "8",
+        "topic": "data_types",
+        "difficulty": 1
+    },
+    {
+        "id": 2,
+        "question": "What keyword is used to define a function in Python?",
+        "options": [
+            "func",
+            "define",
+            "def",
+            "function"
+        ],
+        "answer": "def",
+        "topic": "functions",
+        "difficulty": 1
+    },
+    {
+        "id": 3,
+        "question": "Which of the following is a correct conditional statement?",
+        "options": [
+            "if x = 5:",
+            "if x == 5",
+            "if x == 5:",
+            "if (x == 5)"
+        ],
+        "answer": "if x == 5:",
+        "topic": "control_flow",
+        "difficulty": 2
+    },
+    {
+        "id": 4,
+        "question": "Which of the following is a mutable data type?",
+        "options": [
+            "tuple",
+            "int",
+            "list",
+            "str"
+        ],
+        "answer": "list",
+        "topic": "data_types",
+        "difficulty": 2
+    },
+    {
+        "id": 5,
+        "question": "What will be the output of: print('Hello' + str(5))?",
+        "options": [
+            "Hello5",
+            "Hello 5",
+            "Error",
+            "5Hello"
+        ],
+        "answer": "Hello5",
+        "topic": "data_types",
+        "difficulty": 2
+    },
+    {
+        "id": 6,
+        "question": "What will this code print?\n\nfor i in range(3):\n    print(i)",
+        "options": [
+            "0 1 2",
+            "1 2 3",
+            "0 1 2 3",
+            "1 2"
+        ],
+        "answer": "0 1 2",
+        "topic": "control_flow",
+        "difficulty": 2
+    },
+    {
+        "id": 7,
+        "question": "Which function is used to read input from a user?",
+        "options": [
+            "read()",
+            "input()",
+            "scan()",
+            "get()"
+        ],
+        "answer": "input()",
+        "topic": "io_operations",
+        "difficulty": 1
+    },
+    {
+        "id": 8,
+        "question": "What is the correct way to handle an exception in Python?",
+        "options": [
+            "try-except",
+            "catch-throw",
+            "if-else",
+            "error-handling"
+        ],
+        "answer": "try-except",
+        "topic": "error_handling",
+        "difficulty": 2
+    },
+    {
+        "id": 9,
+        "question": "What will be the result of: len([1, 2, 3])?",
+        "options": [
+            "2",
+            "3",
+            "1",
+            "Error"
+        ],
+        "answer": "3",
+        "topic": "data_types",
+        "difficulty": 1
+    },
+    {
+        "id": 10,
+        "question": "Which keyword is used to exit a loop prematurely?",
+        "options": [
+            "stop",
+            "exit",
+            "break",
+            "end"
+        ],
+        "answer": "break",
+        "topic": "control_flow",
+        "difficulty": 1
+    }
+]
